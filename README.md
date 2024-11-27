@@ -1,2 +1,2 @@
-# RAG_italian_newspapers
+# RAG_Italian_newspapers
 master's thesis project
